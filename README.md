@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+
+I am a dedicated technology enthusiast with a strong interest in Linux. Currently, I am expanding my knowledge in Kubernetes (k8s), Grafana, Loki, and Helm. This repository serves as a space to document my learning journey, projects, and resources related to these technologies.
+
+I welcome collaboration and connections with fellow learners and professionals in the tech community.
+
+[![An image of @maulindesai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maulindesai)](https://holopin.io/@maulindesai)
